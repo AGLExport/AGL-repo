@@ -1,0 +1,9 @@
+ci-image-build+1: Jenkins Job builder account
+Code-Review+2: Scott Murray <scott.murray@konsulko.com>
+Verified+1: Jenkins Job builder account
+ci-image-boot-test+1: Jenkins Job builder account
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Tue, 30 Jul 2024 10:25:10 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/30113
+Project: AGL/AGL-repo
+Branch: refs/heads/quillback
