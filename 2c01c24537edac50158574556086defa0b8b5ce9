@@ -52,6 +52,24 @@
       "parentUuid": "6f34a6fe_56ec67e2",
       "revId": "2c01c24537edac50158574556086defa0b8b5ce9",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64c12eaf_70d88c34",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 637
+      },
+      "writtenOn": "2024-09-03T13:02:52Z",
+      "side": 1,
+      "message": "The https://git.yoctoproject.org/meta-rockchip is a same name. But it\u0027s compleatry separate project.  It does not support GPU at a RK3588.",
+      "parentUuid": "b46e518a_5aa4d1f6",
+      "revId": "2c01c24537edac50158574556086defa0b8b5ce9",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
