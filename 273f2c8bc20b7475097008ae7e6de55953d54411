@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "273f2c8bc20b7475097008ae7e6de55953d54411",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9e424d5_16715434",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 597
+      },
+      "writtenOn": "2025-05-21T16:23:45Z",
+      "side": 1,
+      "message": "A few comments:\n- Since commit fd85709c in meta-rockchip dates back to February, and has not been reverted, I\u0027m more of the opinion that we need to figure out how to work with it.  Being unable to update meta-rockchip ever again is not viable.\n- I do have one of the boards here, I will take a look this week to see if I can figure out a workaround other than reverting back.\n- I am not against this being merged if we cannot figure out a workaround, but the commit subject line and message are not good, there is no mention of meta-rockchip or the offending commit in it that is being avoided by rolling back.",
+      "revId": "273f2c8bc20b7475097008ae7e6de55953d54411",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
