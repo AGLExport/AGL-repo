@@ -59,8 +59,8 @@
   <project name="kraj/meta-clang" path="external/meta-clang" remote="github" revision="eaa08939eaec9f620b14742ff3ac568553683034" upstream="scarthgap"/>
 
   <!-- meta-flutter -->
-  <project name="meta-flutter/meta-flutter" path="external/meta-flutter" remote="github" revision="f12d340d5ac0bb5519e0bdb3d750c805501af308" upstream="scarthgap"/>
-  <project name="meta-flutter/workspace-automation" path="external/workspace-automation" remote="github" revision="98e8baccaf84f14c9aa228a0d59b0ca026dcf164" upstream="v2.0"/>
+  <project name="meta-flutter/meta-flutter" path="external/meta-flutter" remote="github" revision="c4a0870a3c7bcd3c8eb12ec3a336a95f13072fcc" upstream="jw/scarthgap-3.32.0"/>
+  <project name="meta-flutter/workspace-automation" path="external/workspace-automation" remote="github" revision="95aa11a58b6cb7c8d9542240c8758c6b56a9dd1e" upstream="v2.0"/>
 
   <!-- meta-tensorflow -->
   <project name="meta-tensorflow" path="external/meta-tensorflow" remote="yocto" revision="29509c97e9009ed0ae99ce6c2554e463575dc10c" upstream="master"/>
