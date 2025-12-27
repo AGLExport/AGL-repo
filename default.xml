@@ -20,9 +20,9 @@
   <!-- use agl revisions/branches here -->
 
   <!-- AGL things. -->
-  <project name="AGL/meta-agl" path="meta-agl" />
-  <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
-  <project name="AGL/meta-agl-devel" path="meta-agl-devel" />
+  <project name="AGL/meta-agl" path="meta-agl" revision="be6671cddcb2607da33d0069bf0823c91348ac31" />
+  <project name="AGL/meta-agl-demo" path="meta-agl-demo" revision="a7d341c2c7db2fab55e8d85ac00893f899137193" />
+  <project name="AGL/meta-agl-devel" path="meta-agl-devel" revision="49775f63f013c7be892074015b8395677eec4598" />
 
 
   <!-- ALL EXTERNAL REPOS BELOW USE A FIXED REVISION ! -->
